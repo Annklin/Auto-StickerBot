@@ -1,10 +1,12 @@
-# Bot Auto Sticker
+# BEM VINDO AO ANK-BOT, AUTO STICKER
 
-# Example :
+<img align="center" height="auto" src="https://i.ibb.co/bjhG3ML/logobot.jpg"/>
 
-<img align="center" height="auto" src="https://i.ibb.co/FY9gKNv/IMG-20210311-174516.jpg"/>
+# Exemplo :
 
-# Installation
+<img align="center" height="auto" src="https://i.ibb.co/MR002R5/20210524-154836.jpg"/>
+
+# Instalação
 
 ## Termux
 ```cmd
@@ -21,8 +23,8 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/lindow666/StickerWithWm.git
-> cd StickerWithWm
+> git clone https://github.com/Einsteina7x/Auto-StickerBot
+> cd Auto-StickerBot
 > npm i
 > npm start
 > scaneie o qr
@@ -41,3 +43,4 @@
 ## Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`LoL-Human`](https://github.com/LoL-Human)
+
