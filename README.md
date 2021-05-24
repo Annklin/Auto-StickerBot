@@ -1,6 +1,8 @@
-# Simple Selfbot For Whatsapp
+# Bot Auto Sticker
 
-<img align="center" height="auto" src="https://i.ibb.co/MP9r17Q/on-Twitter.jpg"/>
+# Example :
+
+<img align="center" height="auto" src="https://i.ibb.co/FY9gKNv/IMG-20210311-174516.jpg"/>
 
 # Installation
 
@@ -8,8 +10,8 @@
 ```cmd
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
-> cd Selfbot-whatsapp
+> git clone https://github.com/Einsteina7x/Auto-StickerBot
+> cd Auto-StickerBot
 > bash install.sh
 > npm start
 ```
@@ -19,103 +21,23 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
-> cd Selfbot-whatsapp
+> git clone https://github.com/lindow666/StickerWithWm.git
+> cd StickerWithWm
 > npm i
 > npm start
-> scan qr
+> scaneie o qr
 ```
 
-## Edit config file
-Edit the required value in [`config.json`](https://github.com/Megaa4282/Simple-selfbotwa/blob/master/config.json)
-```json
-{
-    "owner": "628xxxxxxx",
-    "mods": [
-      "628xxxxxxx"
-     ],
-    "public": false
-}
-```
+## Nota
+* Este bot não usa um prefixo
 
-## Feature
-* public
-* self
-* set prefix
-* broadcast
-* set thumb
-* fake thumb
-* stats
-* block
-* unblock
-* leave
-* join
-* clearall
-* hide tag
-* image tag
-* sticker tag
-* promote
-* demote
-* list admin
-* link group
-* group open/close
-* set name group
-* set description group
-* bug image
-* demote all
-* ocr
-* to image
-* shutdown
-* spam
-* add member
-* kick member
-* set ur profile picture
-* tag all
-* to ptt
-* fordward
-* fake reply
-* unread all
-* read all
-* up story text
-* up story video
-* up story image
-* unmute
-* mute
-* delete this chat
-* archive
-* un archive all
-* pin chat
-* unpin chat
-* runtime
-* view speed
-* send kontak
-* term
-* set reply
-* set name
-* set bio
-* fake deface
-* get pp member
-* get bio member
-* make image to sticker
-* sticker with watermark
-* change wm sticker
-* yt search
-* instagram downloader
-* soundcloud downloader
-* get pp couple
-* get random asupan video
-* get aesthetic video
-* and storage bot
-* ayat kursi
-* kisah nabi
-* al qur'an
-* AND MORE, CEK SENDIRI!
+## Minhas redes sociais
+* [`WhatsApp`](http://wa.me/558592935452)
+* [`Instagram`](http://instagram.com/annklin_kun)
 
-## Join Group
-* [`My Group`](https://chat.whatsapp.com/JYb7i2b4GbICa0fk17KHOk)
+## Junter-se ao meu grupo
+* [`Meu Grupo`](https://chat.whatsapp.com/H5TsskWeHvUDlkcYlPpT3v)
 
-## Thanks to
+## Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`LolHuman`](https://github.com/LoL-Human)
-* [`Lindow`](https://github.com/mccnlight)
-* [`Fazone`](https://github.com/fazonetea)
+* [`LoL-Human`](https://github.com/LoL-Human)
