@@ -23,7 +23,7 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Einsteina7x/Auto-StickerBot
+> git clone https://github.com/Annklin/Auto-StickerBot
 > cd Auto-StickerBot
 > npm i
 > npm start
