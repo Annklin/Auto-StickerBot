@@ -10,12 +10,12 @@
 
 ## Termux
 ```cmd
-> pkg install git
-> pkg install nodejs
-> git clone https://github.com/Annklin/Auto-StickerBot
-> cd Auto-StickerBot
-> bash install.sh
-> npm start
+ pkg install git
+ pkg install nodejs
+ git clone https://github.com/Annklin/Auto-StickerBot
+ cd Auto-StickerBot
+ bash install.sh
+ npm start
 ```
 ## Windows
 * [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
@@ -23,11 +23,11 @@
 * [`Download Node JS`](https://nodejs.org/en/download/)
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
-> git clone https://github.com/Annklin/Auto-StickerBot
-> cd Auto-StickerBot
-> npm i
-> npm start
-> scaneie o qr
+ git clone https://github.com/Annklin/Auto-StickerBot
+ cd Auto-StickerBot
+ npm i
+ npm start
+ scaneie o qr
 ```
 
 ## Nota
