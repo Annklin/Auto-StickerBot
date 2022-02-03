@@ -12,7 +12,7 @@
 ```cmd
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/Einsteina7x/Auto-StickerBot
+> git clone https://github.com/Annklin/Auto-StickerBot
 > cd Auto-StickerBot
 > bash install.sh
 > npm start
